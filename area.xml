@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<areas>
+	<area type="3" traveling="" land="" villa="" building="" hotel="" landmark="">출발점</area>
+	<area type="1" traveling="5" land="5" villa="12" building="25" hotel="30" landmark="30">방콕</area>
+	<area type="1" traveling="6" land="6" villa="12" building="27" hotel="33" landmark="30">타이완</area>
+	<area type="1" traveling="7" land="7" villa="15" building="29" hotel="36" landmark="30">베이징</area>
+	<area type="2" traveling="7" land="7" villa="" building="" hotel="" landmark="">독도</area>
+	<area type="1" traveling="7" land="7" villa="16" building="31" hotel="40" landmark="30">타이페이</area>
+	<area type="1" traveling="8" land="8" villa="16" building="31" hotel="42" landmark="30">두바이</area>
+	<area type="1" traveling="8" land="8" villa="17" building="30" hotel="45" landmark="30">카이로</area>
+	<area type="4" traveling="" land="" villa="" building="" hotel="" landmark="">무인도</area>
+	<area type="2" traveling="7" land="7" villa="" building="" hotel="" landmark="">발리</area>
+	<area type="1" traveling="8" land="8" villa="18" building="32" hotel="48" landmark="35">도쿄</area>
+	<area type="1" traveling="10" land="10" villa="18" building="33" hotel="50" landmark="35">시드니</area>
+	<area type="1" traveling="12" land="12" villa="19" building="35" hotel="54" landmark="35">산티아고</area>
+	<area type="1" traveling="13" land="13" villa="20" building="37" hotel="56" landmark="35">몬트리올</area>
+	<area type="2" traveling="10" land="10" villa="" building="" hotel="" landmark="">하와이</area>
+	<area type="1" traveling="14" land="14" villa="21" building="39" hotel="58" landmark="35">상파울로</area>
+	<area type="5" traveling="" land="" villa="" building="" hotel="" landmark="">올림픽</area>
+	<area type="1" traveling="16" land="16" villa="22" building="42" hotel="60" landmark="35">프라하</area>
+	<area type="2" traveling="10" land="10" villa="" building="" hotel="" landmark="">푸켓</area>
+	<area type="1" traveling="17" land="17" villa="24" building="43" hotel="64" landmark="40">베를린</area>
+	<area type="1" traveling="19" land="19" villa="22" building="45" hotel="66" landmark="40">캔버라</area>
+	<area type="1" traveling="18" land="18" villa="25" building="47" hotel="68" landmark="40">모스크바</area>
+	<area type="1" traveling="21" land="21" villa="26" building="51" hotel="70" landmark="40">제네바</area>
+	<area type="1" traveling="20" land="20" villa="28" building="54" hotel="74" landmark="40">로마</area>
+	<area type="6" traveling="" land="" villa="" building="" hotel="" landmark="">세계여행</area>
+	<area type="2" traveling="10" land="10" villa="" building="" hotel="" landmark="">타히티</area>
+	<area type="1" traveling="21" land="21" villa="30" building="58" hotel="80" landmark="45">런던</area>
+	<area type="1" traveling="23" land="23" villa="33" building="61" hotel="84" landmark="45">파리</area>
+	<area type="1" traveling="22" land="22" villa="35" building="64" hotel="87" landmark="45">오사카</area>
+	<area type="1" traveling="24" land="24" villa="38" building="70" hotel="90" landmark="45">뉴욕</area>
+	<area type="7" traveling="" land="" villa="" building="" hotel="" landmark="">국세청</area>
+	<area type="1" traveling="30" land="30" villa="40" building="83" hotel="100" landmark="45">서울</area>
+</areas>
